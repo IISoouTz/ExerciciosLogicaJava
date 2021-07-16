@@ -1,0 +1,21 @@
+package listaL;
+
+public class listaL2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		String letra;
+		
+		for(letra=a;letra<=z;letra++) {
+			System.out.println("Numero - " + numero);
+		}
+		
+		for(numero=100;numero>=1;numero--) {
+			System.out.println("Numero - " + numero);
+		}
+		
+	}
+
+}

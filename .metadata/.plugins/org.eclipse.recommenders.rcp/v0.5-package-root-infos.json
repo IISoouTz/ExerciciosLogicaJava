@@ -1,0 +1,236 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a516d1a0dcaefb1193d7b81f590e164b79618067",
+    "jarFileModificationDate": "2020-09-28T17:15:11.042-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3efe44d95d82b8de633cdbca9b4824035b0dd5d5",
+    "jarFileModificationDate": "2020-09-28T17:15:11.042-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6726b8020924789a61c65b5498cec764a2c12d99",
+    "jarFileModificationDate": "2020-09-28T17:15:11.042-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64d42e4f063124689c8b45234dd32309897074f2",
+    "jarFileModificationDate": "2020-09-28T17:15:11.120-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc95e8de69c9beb359d2e17e935d2e13c4e6e52d",
+    "jarFileModificationDate": "2020-09-28T17:15:15.847-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "849db60703dd0379afb9629ffe38947fce43ceb6",
+    "jarFileModificationDate": "2020-09-28T17:15:10.964-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a24174421493aa62db07777dc5e92116fc9d20dc",
+    "jarFileModificationDate": "2020-09-28T17:15:11.042-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dc8d044277cd72647a55127506d5d2d21eba89f9",
+    "jarFileModificationDate": "2020-09-28T17:15:11.042-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d9d6f9cc7d02ff811af4933ebe9e9dd06655017f",
+    "jarFileModificationDate": "2020-09-28T17:15:10.964-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1f2cbfeca70d26a47fbbd75e758d8b5b7dda910",
+    "jarFileModificationDate": "2020-09-28T17:15:16.284-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e550f5692a72baf56958f3706566b8da3bd1e19d",
+    "jarFileModificationDate": "2020-09-28T17:15:16.065-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c31316791422d7de85286253e0e1eea121c52396",
+    "jarFileModificationDate": "2020-09-28T17:15:10.948-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\access-bridge.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "210c7af9b977875c146aa1eebf140d008e98a827",
+    "jarFileModificationDate": "2020-09-28T17:15:11.089-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b8c03a826156679e3126b32da9a6731da7bf2fc4",
+    "jarFileModificationDate": "2020-09-28T17:15:11.104-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cd9910349afca09033fa1de5d1237479f2e27e8c",
+    "jarFileModificationDate": "2020-09-28T17:15:15.972-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "917ca21b61940ed599094b765051fdf3706bdee7",
+    "jarFileModificationDate": "2020-09-28T17:15:10.964-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2b12f0630a16810879de2a6c1d0058bae35840c1",
+    "jarFileModificationDate": "2020-09-28T17:15:10.995-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fb045b96c10c91fc759d304ec1b6d2befcc13ce3",
+    "jarFileModificationDate": "2020-09-28T17:15:11.042-03:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_261\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  }
+]
